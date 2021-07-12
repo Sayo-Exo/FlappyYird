@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Game Over Collider
+  - Bird
+  - BYE BYE PIPE
+  - ur grounded lol
+  - World Bounds-Top
   layers:
   - Default
   - TransparentFX
